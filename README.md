@@ -8,4 +8,5 @@ This project serves as a server and is able to create name/save names via the /n
 ### TODO: 
 - Connect to db
 - Able to generate random names
+- Create users
 - Users able to save their list of names
